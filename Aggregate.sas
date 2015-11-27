@@ -1,5 +1,4 @@
-**%Let fpath = C:\Path\to\DATA_AGGREGATION;
-%Let fpath = D:\Freelance Work\Sandbox\DATA_AGGREGATION;
+%Let fpath = C:\Path\to\DATA_AGGREGATION;
 
 ** READING IN CSV FILES;
 proc import	datafile = "&fpath\DATA\BigCompaniesData.csv"
