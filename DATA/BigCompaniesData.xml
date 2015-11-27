@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<bigcompany>
+		<company>ExxonMobil</company>
+		<industry>Oil &amp; Gas</industry>
+		<revenue>394105000000</revenue>
+		<assets>349493000000</assets>
+		<equity>174399000000</equity>
+		<netincome>32520000000</netincome>
+		<stockprice>89.38</stockprice>
+		<employees>75300</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Chevron Corporation</company>
+		<industry>Oil &amp; Gas</industry>
+		<revenue>200494000000</revenue>
+		<assets>266026000000</assets>
+		<equity>156191000000</equity>
+		<netincome>19241000000</netincome>
+		<stockprice>108.62</stockprice>
+		<employees>64700</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Valero</company>
+		<industry>Oil &amp; Gas</industry>
+		<revenue>13807000000</revenue>
+		<assets>4726000000</assets>
+		<equity>16445000000</equity>
+		<netincome>2720000000</netincome>
+		<stockprice>48.5</stockprice>
+		<employees>22000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Marathon</company>
+		<industry>Oil &amp; Gas</industry>
+		<revenue>97800000000</revenue>
+		<assets>30500000000</assets>
+		<equity>10800000000</equity>
+		<netincome>2700000000</netincome>
+		<stockprice>27.53</stockprice>
+		<employees>45340</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>ConocoPhillips</company>
+		<industry>Oil &amp; Gas</industry>
+		<revenue>62004000000</revenue>
+		<assets>117144000000</assets>
+		<equity>48427000000</equity>
+		<netincome>8428000000</netincome>
+		<stockprice>66.66</stockprice>
+		<employees>16900</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Pfizer</company>
+		<industry>Pharmaceuticals</industry>
+		<revenue>49605000000</revenue>
+		<assets>169274000000</assets>
+		<equity>71622000000</equity>
+		<netincome>9135000000</netincome>
+		<stockprice>30.14</stockprice>
+		<employees>78000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Merck &amp; Co.</company>
+		<industry>Pharmaceuticals</industry>
+		<revenue>48047000000</revenue>
+		<assets>105128000000</assets>
+		<equity>56943000000</equity>
+		<netincome>6272000000</netincome>
+		<stockprice>55.43</stockprice>
+		<employees>76000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Johnson &amp; Johnson</company>
+		<industry>Pharmaceuticals</industry>
+		<revenue>74331000000</revenue>
+		<assets>131119000000</assets>
+		<equity>69752000000</equity>
+		<netincome>16323000000</netincome>
+		<stockprice>102.31</stockprice>
+		<employees>126500</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Eli Lilly and Company</company>
+		<industry>Pharmaceuticals</industry>
+		<revenue>23113000000</revenue>
+		<assets>35249000000</assets>
+		<equity>17641000000</equity>
+		<netincome>4685000000</netincome>
+		<stockprice>67.2</stockprice>
+		<employees>37925</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Bristol-Myers Squibb</company>
+		<industry>Pharmaceuticals</industry>
+		<revenue>15879000000</revenue>
+		<assets>33749000000</assets>
+		<equity>14852000000</equity>
+		<netincome>2004000000</netincome>
+		<stockprice>58</stockprice>
+		<employees>28000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>The Walt Disney Company</company>
+		<industry>Media</industry>
+		<revenue>48813000000</revenue>
+		<assets>84186000000</assets>
+		<equity>44958000000</equity>
+		<netincome>8004000000</netincome>
+		<stockprice>93.65</stockprice>
+		<employees>180000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Comcast Corporation</company>
+		<industry>Media</industry>
+		<revenue>64657000000</revenue>
+		<assets>158813000000</assets>
+		<equity>51058000000</equity>
+		<netincome>7135000000</netincome>
+		<stockprice>57.05</stockprice>
+		<employees>139000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Twenty-First Century Fox Inc.</company>
+		<industry>Media</industry>
+		<revenue>31867000000</revenue>
+		<assets>54793000000</assets>
+		<equity>17418000000</equity>
+		<netincome>4514000000</netincome>
+		<stockprice>36.52</stockprice>
+		<employees>27000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Time Warner Inc.</company>
+		<industry>Media</industry>
+		<revenue>29795000000</revenue>
+		<assets>67994000000</assets>
+		<equity>29904000000</equity>
+		<netincome>3691000000</netincome>
+		<stockprice>84.3</stockprice>
+		<employees>26000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>CBS Corporation</company>
+		<industry>Media</industry>
+		<revenue>15284000000</revenue>
+		<assets>26387000000</assets>
+		<equity>9966000000</equity>
+		<netincome>1879000000</netincome>
+		<stockprice>54.88</stockprice>
+		<employees>20915</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>JPMorgan Chase</company>
+		<industry>Banks</industry>
+		<revenue>97900000000</revenue>
+		<assets>2600000000000</assets>
+		<equity>232000000000</equity>
+		<netincome>21760000000</netincome>
+		<stockprice>60.93</stockprice>
+		<employees>265359</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Bank of America</company>
+		<industry>Banks</industry>
+		<revenue>85110000000</revenue>
+		<assets>2100000000000</assets>
+		<equity>243400000000</equity>
+		<netincome>13800000000</netincome>
+		<stockprice>17.72</stockprice>
+		<employees>200000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Citigroup</company>
+		<industry>Banks</industry>
+		<revenue>76880000000</revenue>
+		<assets>1890000000000</assets>
+		<equity>210500000000</equity>
+		<netincome>7310000000</netincome>
+		<stockprice>53.95</stockprice>
+		<employees>243000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Wells Fargo &amp; Company</company>
+		<industry>Banks</industry>
+		<revenue>84300000000</revenue>
+		<assets>1690000000000</assets>
+		<equity>184300000000</equity>
+		<netincome>33900000000</netincome>
+		<stockprice>53.38</stockprice>
+		<employees>275000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Goldman Sachs</company>
+		<industry>Banks</industry>
+		<revenue>40080000000</revenue>
+		<assets>856240000000</assets>
+		<equity>82797000000</equity>
+		<netincome>8477000000</netincome>
+		<stockprice>191.96</stockprice>
+		<employees>32000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Pepsico Inc.</company>
+		<industry>Food</industry>
+		<revenue>66683000000</revenue>
+		<assets>70509000000</assets>
+		<equity>17548000000</equity>
+		<netincome>6513000000</netincome>
+		<stockprice>92.53</stockprice>
+		<employees>271000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Tyson Food Inc.</company>
+		<industry>Food</industry>
+		<revenue>34374000000</revenue>
+		<assets>23526000000</assets>
+		<equity>9355000000</equity>
+		<netincome>778000000</netincome>
+		<stockprice>39.81</stockprice>
+		<employees>115000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Kraft Foods Inc.</company>
+		<industry>Food</industry>
+		<revenue>18218000000</revenue>
+		<assets>23148000000</assets>
+		<equity>5187000000</equity>
+		<netincome>2715000000</netincome>
+		<stockprice>62.27</stockprice>
+		<employees>23000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>General Mills Inc.</company>
+		<industry>Food</industry>
+		<revenue>17900000000</revenue>
+		<assets>23140000000</assets>
+		<equity>6530000000</equity>
+		<netincome>2950000000</netincome>
+		<stockprice>51.69</stockprice>
+		<employees>43000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>ConAgra Foods, Inc. </company>
+		<industry>Food</industry>
+		<revenue>17700000000</revenue>
+		<assets>19319500000</assets>
+		<equity>5258500000</equity>
+		<netincome>303000000</netincome>
+		<stockprice>35.37</stockprice>
+		<employees>26100</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>United Healthcare Group</company>
+		<industry>Health Insurance</industry>
+		<revenue>141500000000</revenue>
+		<assets>82160000000</assets>
+		<equity>33020000000</equity>
+		<netincome>8410000000</netincome>
+		<stockprice>99.9</stockprice>
+		<employees>182000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Anthem</company>
+		<industry>Health Insurance</industry>
+		<revenue>61700000000</revenue>
+		<assets>58960000000</assets>
+		<equity>23800000000</equity>
+		<netincome>2660000000</netincome>
+		<stockprice>102.09</stockprice>
+		<employees>37000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Aetna</company>
+		<industry>Health Insurance</industry>
+		<revenue>47294000000</revenue>
+		<assets>49871800000</assets>
+		<equity>14078000000</equity>
+		<netincome>1910000000</netincome>
+		<stockprice>88.18</stockprice>
+		<employees>48600</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Cigna</company>
+		<industry>Health Insurance</industry>
+		<revenue>29119000000</revenue>
+		<assets>53734000000</assets>
+		<equity>9769000000</equity>
+		<netincome>1624000000</netincome>
+		<stockprice>102.88</stockprice>
+		<employees>35800</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Humana</company>
+		<industry>Health Insurance</industry>
+		<revenue>41313000000</revenue>
+		<assets>20735000000</assets>
+		<equity>9316000000</equity>
+		<netincome>1231000000</netincome>
+		<stockprice>142.96</stockprice>
+		<employees>52000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Berkshire Hathaway</company>
+		<industry>Financial Services</industry>
+		<revenue>194673000000</revenue>
+		<assets>526186000000</assets>
+		<equity>241170000000</equity>
+		<netincome>19872000000</netincome>
+		<stockprice>150.15</stockprice>
+		<employees>316000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>American International Group</company>
+		<industry>Financial Services</industry>
+		<revenue>64400000000</revenue>
+		<assets>515600000000</assets>
+		<equity>107300000000</equity>
+		<netincome>7520000000</netincome>
+		<stockprice>55.5</stockprice>
+		<employees>65000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>MetLife, Inc.</company>
+		<industry>Financial Services</industry>
+		<revenue>52717000000</revenue>
+		<assets>730906000000</assets>
+		<equity>48996000000</equity>
+		<netincome>2786000000</netincome>
+		<stockprice>52.57</stockprice>
+		<employees>66000</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Fannie Mae</company>
+		<industry>Financial Services</industry>
+		<revenue>25800000000</revenue>
+		<assets>3248000000000</assets>
+		<equity>3700000000</equity>
+		<netincome>14200000000</netincome>
+		<stockprice>1.71</stockprice>
+		<employees>7200</employees>
+	</bigcompany>
+	<bigcompany>
+		<company>Freddie Mac</company>
+		<industry>Financial Services</industry>
+		<revenue>14263000000</revenue>
+		<assets>1945539000000</assets>
+		<equity>2651000000</equity>
+		<netincome>7690000000</netincome>
+		<stockprice>1.71</stockprice>
+		<employees>4957</employees>
+	</bigcompany>
+</data>
