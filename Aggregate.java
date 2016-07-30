@@ -79,7 +79,7 @@ public class Aggregate {
                   writer.append("Industry,SumOfRevenues,AvgOfAssets,AvgOfEquity,MaxOfNetIncome,MinOfNetIncome,AvgOfStockPrice,SumOfEmployees\n");
           
                   for(String ind: industrylist) {                        
-                        String csvline = industryAggergation(ind, datalist);
+                        String csvline = industryAggregation(ind, datalist);
                         writer.append(csvline);
                   }
                   writer.flush();
@@ -94,7 +94,7 @@ public class Aggregate {
         
       }
       
-      public static String industryAggergation(String indtype, ArrayList<DataObj> rawdata) {
+      public static String industryAggregation(String indtype, ArrayList<DataObj> rawdata) {
             
             String Industry = ""; 
             float SumOfRevenues = 0; float AvgOfAssets = 0; float AvgOfEquity = 0; float MaxOfNetIncome = 0;
