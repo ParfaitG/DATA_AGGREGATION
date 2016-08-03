@@ -3,7 +3,9 @@
                               xmlns:exsl="http://exslt.org/common"
                               extension-element-prefixes="exsl">
  <xsl:output method="text" omit-xml-declaration="no" indent="yes"/>
- <xsl:strip-space elements="*"/> 
+ <xsl:strip-space elements="*"/>
+ 
+ <!-- CREDIT: @michael.hor257k user on StackOverflow -->
     
   <xsl:key name="indkey" match="bigcompany" use="industry"/>
  
